@@ -9,3 +9,4 @@ peft
 datasets 
 bitsandbytes 
 wandb
+notebook
