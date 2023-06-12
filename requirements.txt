@@ -1,0 +1,11 @@
+diffusers
+transformers
+lxml
+bs4
+requests
+einops
+accelerate
+peft
+datasets 
+bitsandbytes 
+wandb
